@@ -1,0 +1,14 @@
+.biggest{
+    width: 30%;
+    position: relative;
+    left: 170px;
+    background: #DAF7F6;
+}
+.sub {
+    background: #DAF7F6;
+}
+.imagegr{
+    position: relative;
+    right: 26%;
+    top: 20px;
+}

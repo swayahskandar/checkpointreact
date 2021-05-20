@@ -1,0 +1,11 @@
+.biggest{
+    width: 30%;
+    position: relative;
+    left: 170px;
+}
+.imagegr{
+    position: relative;
+    right: 26%;
+    /* bottom: -22px; */
+    top: 45px;
+}

@@ -1,0 +1,36 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+    width: 30%;
+    position: relative;
+    left:30%;
+    margin-top: 48px;
+
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px none rgba(0, 0, 0, 0.8);
+    padding: 14px;
+    font-size: 15px;
+    text-align: center;
+    color: #6D9AB4;
+    width: 150px;
+  }
+  .image {
+      width: 20px;
+  }
+  .image1 {
+    width: 120px;
+  }
+  .image2 {
+    position: relative;
+    bottom: 15px;
+  }
+  .image3{
+      width: 120;
+    position: relative;
+    left: -69px;
+    top: 3px;
+  }

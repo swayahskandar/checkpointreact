@@ -1,0 +1,26 @@
+.biggest{
+    width: 30%;
+    position: relative;
+    left: 170px;
+    background: #DAF7F6;
+}
+.sub {
+    background: #DAF7F6;
+}
+h2{
+    color: #009F8A;
+}
+p{
+    max-width: 415px;
+    font-size: .875em;
+    font-weight: 400;
+    line-height: 1.7142857143;
+    font-family: Arial,sans-serif;
+    color: #747474;
+}
+.imagegr{
+    position: relative;
+    right: 12%;
+    top: 20px;
+    width: 335px;
+}
